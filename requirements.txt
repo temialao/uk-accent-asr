@@ -1,0 +1,12 @@
+# Colab already has torch; elsewhere install the build for your machine first (https://pytorch.org)
+torch
+transformers>=4.40
+datasets>=2.19
+soundfile
+scipy
+jiwer>=3.0
+whisper-normalizer
+pandas
+numpy
+matplotlib
+pytest
